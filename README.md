@@ -1,5 +1,5 @@
 # Untrained neural network based JCED for OTFS (UNN-JCED)
-The implementation of the paper " Neural OTFS Receiver without Training Requirement" available at https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153399 
+The implementation of the paper " Neural OTFS Receiver without Training Requirement" available at https://ieeexplore.ieee.org/document/11153399
 
 The OTFS system model is based on the code available at https://github.com/textremo/Phy_Mod_OTFS.
 
